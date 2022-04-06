@@ -12,6 +12,10 @@ Adds the Membership ID to the Membership section of the CiviCRM User Dashboard.
 
 * [CiviCRM](https://www.civicrm.org/download)
 
+### Credits
+
+* [Association for Computers and the Humanities](https://ach.org/) for making it happen.
+
 ### Installation
 
 There are two ways to install from GitHub:
